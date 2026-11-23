@@ -1,0 +1,13 @@
+/* CSS by Gillian Lemon */
+/* Color Palette
+burgundy= #591B32
+dark olive green= #44473E
+light brown= #8C745E
+dark brown= #403431
+mauve= #8C5D5D
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+body {
+    background-color: #8C745E;
+}
